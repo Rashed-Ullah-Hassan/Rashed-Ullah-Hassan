@@ -17,7 +17,7 @@ a man who is stucked in a mirror dimension with bugs : )
 <a href="https://fb.com/rashedal.hasan.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashedal.hasan.37" height="30" width="40" /></a>
 <a href="https://instagram.com/r_u_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_u_hassan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19087440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19087440" height="30" width="40" /></a>
-<a href="https://codepen.io/@rashed-ullah-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rashed-ullah-hassan" height="30" width="40" /></a>
+<a href="https://codepen.io/rashed-ullah-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rashed-ullah-hassan" height="30" width="40" /></a>
 <a href="https://dev.to/@rashedullahhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@rashedullahhassan" height="30" width="40" /></a>
 
 

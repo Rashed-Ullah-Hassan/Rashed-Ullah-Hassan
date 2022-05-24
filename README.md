@@ -67,3 +67,8 @@ a man who is stucked in a mirror dimension with bugs : )
 
 <p align="center"> <strong> Happy Coding 🤍 </strong> </p>
 
+
+<img data-target="animated-image.replacedImage" alt="git.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/adityathakekar/adityathakekar/raw/master/assests/git.gif" width="300" height="300" style="display: block; opacity: 1;">
+
+
+

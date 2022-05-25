@@ -9,7 +9,7 @@ a man who is stucked in a mirror dimension with bugs : )
 
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Development.
-- ⚡ If i fall <strong> i will rise again. </strong>
+- ⚡ If i fall <strong> i will rise again. </strong> 
 
 <br />
 <br />

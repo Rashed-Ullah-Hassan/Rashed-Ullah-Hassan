@@ -1,10 +1,10 @@
-## Hey There Delilah!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hey There Delilah!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 ## This is RASHED ULLAH HASSAN ( ͡◕ Ĺ̯ ͡◕)
 
 a man who is stucked in a mirror dimension with bugs : )
 
 
-<img align="right" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" />
+<img align="center" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" />
 
 
 - 👀 I’m interested in Programming.
